@@ -31,10 +31,15 @@ The pipeline leverages MLflow for experiment tracking and model logging, making 
 ### File Structure
 
 .
+├
 ├── pipeline.py                  # Main Python script to run the ML pipeline
+├
 ├── requirements.txt             # Dependencies for the project
+├
 ├── python_env.yaml              # Python environment setup file for conda
+├
 ├── london_weather.csv           # The dataset used for training
+├
 └── README.md                    # Project documentation
 
 ### Workflow
