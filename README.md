@@ -30,7 +30,7 @@ The pipeline leverages MLflow for experiment tracking and model logging, making 
 
 ### File Structure
 
-.
+. <br>
 ├── pipeline.py                  # Main Python script to run the ML pipeline <br>
 ├── requirements.txt             # Dependencies for the project <br>
 ├── python_env.yaml              # Python environment setup file for conda <br>
